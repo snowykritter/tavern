@@ -11,6 +11,8 @@ Provided Files: `compass`
 
 Initial thoughts: Since it is an executable, I would type `chmod +x <file>` to give it permission to run. I am skeptical of it running properly though do to the category being related to metadata.
 
+---
+
 ### Running the executable
 In the directory the compass file is located in I ran this comand.
 
