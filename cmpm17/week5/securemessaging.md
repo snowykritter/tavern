@@ -10,7 +10,8 @@ Provided Files: `data`
 
 ![secure messaging challenge](../img/securemessaging/securemessaging.png)
 
-Initial thoughts: Encoding is different from a hash, and is reversible. I should be able to repeated use base64 to decode it 30 times and get the output!
+### Initial thoughts 
+Encoding is different from a hash, and is reversible. I should be able to repeated use base64 to decode it 30 times and get the output! I wonder if there's a way to automate it. There has to be a loop feature in the terminal...
 
 ---
 
@@ -43,4 +44,4 @@ First determine skill hotel back. cmpm{n07_qu173_pbkdf2_a5qncz}
 ```
 ---
 ### Reflection
-I generally knew what I had to do, but I've never used for loops in the command line before, so I had to research how to use them. I feel like this challenge was pretty straightforward compared to pirate hunting. My write up also feels short because of it :(
+I generally knew what I had to do, but I've never used for loops in the command line before, so I had to research how to use them. I feel like this challenge was pretty straightforward compared to pirate hunting. I did take quite a bit of trial and error on the syntax to get it right though. My write up also feels short because of it. 

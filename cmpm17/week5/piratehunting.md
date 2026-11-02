@@ -9,7 +9,8 @@ Provided Files: `compass`
 
 ![pirate hunter challenge](../img/piratehunter/piratehunter.png)
 
-Initial thoughts: Since it is an executable, I would type `chmod +x <file>` to give it permission to run. I am skeptical of it running properly though do to the category being related to metadata.
+### Initial thoughts
+Since it is an executable, I would type `chmod +x <file>` to give it permission to run. I am skeptical of it running properly though do to the category being related to metadata.
 
 ---
 
